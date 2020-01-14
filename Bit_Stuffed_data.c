@@ -1,5 +1,4 @@
 #include "stdio.h"
-#include "conio.h"
 int main()
 {
 int i=0,c=0;
@@ -22,6 +21,5 @@ if(c==5)
     }
 }
 printf("01111110");
-getch();
 return 1;
 }
